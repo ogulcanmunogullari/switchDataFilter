@@ -1,0 +1,1 @@
+Basit bir data dosyası ve o dosyayı kullanarak bazı verilerin filtrelenme işlemi. Dinamik bir filtre değil statik veri dosyası üzerinden işliyor.
