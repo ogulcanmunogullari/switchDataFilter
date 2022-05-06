@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Spiderman - 1",
+        "isWatched": true
+    },
+    {
+        "id": 2,
+        "name": "Spiderman - 2",
+        "isWatched": true
+    },
+    {
+        "id": 3,
+        "name": "Spiderman - 3",
+        "isWatched": false
+    },
+    {
+        "id": 4,
+        "name": "Spiderman - 4",
+        "isWatched": false
+    },
+    {
+        "id": 5,
+        "name": "Spiderman - 5",
+        "isWatched": false
+    },
+    {
+        "id": 6,
+        "name": "Spiderman - 6",
+        "isWatched": true
+    },
+    {
+        "id": 7,
+        "name": "Spiderman - 7",
+        "isWatched": true
+    },
+    {
+        "id": 8,
+        "name": "Spiderman - 8",
+        "isWatched": false
+    },
+    {
+        "id": 9,
+        "name": "Spiderman - 9",
+        "isWatched": true
+    },
+    {
+        "id": 10,
+        "name": "Spiderman - 10",
+        "isWatched": false
+    }
+]
